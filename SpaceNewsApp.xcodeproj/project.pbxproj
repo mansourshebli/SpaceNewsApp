@@ -51,8 +51,9 @@
 		6ECB746D2BF7DA7C0035A0E2 /* SpaceNewsApp */ = {
 			isa = PBXGroup;
 			children = (
+				6ECB747D2BF7DB5F0035A0E2 /* API */,
+				6ECB747C2BF7DB410035A0E2 /* Views */,
 				6ECB746E2BF7DA7C0035A0E2 /* SpaceNewsAppApp.swift */,
-				6ECB74702BF7DA7C0035A0E2 /* ContentView.swift */,
 				6ECB74722BF7DA7E0035A0E2 /* Assets.xcassets */,
 				6ECB74742BF7DA7E0035A0E2 /* Preview Content */,
 			);
@@ -65,6 +66,21 @@
 				6ECB74752BF7DA7E0035A0E2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6ECB747C2BF7DB410035A0E2 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				6ECB74702BF7DA7C0035A0E2 /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		6ECB747D2BF7DB5F0035A0E2 /* API */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = API;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
